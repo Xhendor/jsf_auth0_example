@@ -1,0 +1,6 @@
+auth0:
+  domain: consorcio-ambiental.auth0.com
+  clientId: ZxLePIVgfYxqhAG0OtNvaGDxUsphAsBh
+  clientSecret: mxbUoUCeh-x0gKgTsgnQLHm08gdYq46YsrClsmQTK__OabGmPxqcEq_bUSL4acWj
+  scope: openid profile email
+  callbackUri: /callback
